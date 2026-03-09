@@ -2,11 +2,11 @@
 # 建议复制到 config/user/site.yml 并按需调整；用户配置采用“完全替换”策略，将覆盖默认配置。
 
 # 网站基本信息
-title: MeNav
+title: SunNav
 description: Personal Navigation Station
-author: rbetree
+author: Sunhaozhe
 favicon: menav.svg
-logo_text: MeNav
+logo_text: SunHaoZhe
 
 icons:
   # 站点卡片图标模式：
