@@ -1,0 +1,265 @@
+title: 学习类内容
+subtitle: 学习类网站收集
+
+categories:
+
+  - name: 'AI / 大模型'
+    icon: 'fas fa-robot'
+    sites:
+      - name: DEV Community
+        url: https://dev.to/
+        icon: fab fa-dev
+        description: "AI 相关 Community "
+      - name: 'HyperAI超神经'
+        url: 'https://hyper.ai/'
+        icon: 'fas fa-link'
+        description: 'AI行业资讯、论文解读与技术社区'
+
+      - name: '动手学深度学习'
+        url: 'http://zh.d2l.ai/'
+        icon: 'fas fa-book'
+        description: '经典深度学习教材与实践教程'
+
+      - name: 'LangChain 中文文档'
+        url: 'https://langchain-doc.cn/'
+        icon: 'fas fa-book'
+        description: 'LangChain框架完整中文文档'
+
+      - name: 'Haystack Agent 文档'
+        url: 'https://docs.haystack.deepset.ai/docs/agent'
+        icon: 'fas fa-book'
+        description: 'Haystack Agent开发文档'
+
+      - name: 'Microsoft AutoGen'
+        url: 'https://microsoft.github.io/autogen/stable/'
+        icon: 'fab fa-microsoft'
+        description: 'Microsoft多智能体Agent框架'
+
+      - name: 'RAG 技术指南'
+        url: 'https://datawhalechina.github.io/all-in-rag/'
+        icon: 'fas fa-book'
+        description: '大模型RAG技术实战教程'
+
+      - name: 微调小语言模型函数调用
+        url: https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/fine-tuning-small-language-models-for-function-calling-a-comprehensive-guide/4362539
+        icon: fab fa-microsoft
+        description: "小模型函数调用微调指南"
+
+  - name: 'AI 开源项目'
+    icon: 'fab fa-github'
+    sites:
+      - name: 'pytorch-image-models (timm)'
+        url: 'https://github.com/huggingface/pytorch-image-models'
+        icon: 'fab fa-github'
+        description: 'PyTorch视觉模型库'
+
+      - name: 'hello-agents'
+        url: 'https://github.com/datawhalechina/hello-agents'
+        icon: 'fab fa-github'
+        description: '从零构建AI智能体教程'
+
+      - name: 'RAG Techniques'
+        url: 'https://github.com/NirDiamant/RAG_Techniques'
+        icon: 'fab fa-github'
+        description: 'RAG系统高级实现合集'
+
+      - name: 'MinerU'
+        url: 'https://github.com/opendatalab/MinerU'
+        icon: 'fab fa-github'
+        description: 'PDF文档结构化解析工具'
+
+      - name: 'Docling'
+        url: 'https://github.com/docling-project/docling'
+        icon: 'fab fa-github'
+        description: '文档解析与AI预处理工具'
+
+      - name: 'Foundations of LLMs'
+        url: 'https://github.com/ZJU-LLMs/Foundations-of-LLMs'
+        icon: 'fab fa-github'
+        description: '浙江大学大模型教材'
+
+  - name: '编程学习'
+    icon: 'fas fa-code'
+    sites:
+      - name: '代码随想录'
+        url: 'https://programmercarl.com/'
+        icon: 'fas fa-code'
+        description: '算法与数据结构系统学习'
+
+      - name: '图解网络 | 小林coding'
+        url: 'https://xiaolincoding.com/network/'
+        icon: 'fas fa-network-wired'
+        description: '计算机网络图解教程'
+
+      - name: '操作系统学习路线'
+        url: 'https://interviewguide.cn/notes/02-learning_route/01-basic-project/02-os.html'
+        icon: 'fas fa-book'
+        description: '操作系统系统学习路线'
+
+      - name: 'Teach Yourself CS'
+        url: 'https://github.com/izackwu/TeachYourselfCS-CN'
+        icon: 'fab fa-github'
+        description: '经典计算机科学自学路线'
+
+      - name: 'CS自学指南'
+        url: 'https://csdiy.wiki/'
+        icon: 'fas fa-link'
+        description: '计算机课程学习指南'
+
+      - name: 'cs-self-learning'
+        url: 'https://github.com/pkuflyingpig/cs-self-learning'
+        icon: 'fab fa-github'
+        description: '北大计算机自学路线'
+
+      - name: 'Awesome CS OpenCourse'
+        url: 'https://github.com/0voice/Awesome-CS-OpenCourse'
+        icon: 'fab fa-github'
+        description: '全球CS公开课合集'
+
+      - name: 'CS Books'
+        url: 'https://github.com/forthespada/CS-Books'
+        icon: 'fab fa-github'
+        description: '1000+计算机经典书籍'
+
+      - name: '图灵社区'
+        url: 'https://www.ituring.com.cn/'
+        icon: 'fas fa-link'
+        description: '计算机技术图书出版平台'
+
+      - name: 'MySQL面试笔记'
+        url: 'https://interviewguide.cn/notes/03-hunting_job/02-interview/04-01-01-MySQL.html'
+        icon: 'fas fa-database'
+        description: 'MySQL面试知识总结'
+
+  - name: '开源资源 / 项目推荐'
+    icon: 'fab fa-github'
+    sites:
+      - name: 'HelloGitHub'
+        url: 'https://hellogithub.com/'
+        icon: 'fab fa-github'
+        description: '每周推荐开源项目'
+
+      - name: 'GitHubDaily'
+        url: 'https://github.com/GitHubDaily/GitHubDaily'
+        icon: 'fab fa-github'
+        description: '高质量GitHub项目推荐'
+
+      - name: 'Awesome'
+        url: 'https://github.com/sindresorhus/awesome'
+        icon: 'fab fa-github'
+        description: 'Awesome资源合集'
+
+      - name: 'great-open-source-project'
+        url: 'https://github.com/chenyl8848/great-open-source-project'
+        icon: 'fab fa-github'
+        description: '优秀开源项目整理'
+
+  - name: 'Java'
+    icon: 'fab fa-java'
+    sites:
+      - name: 'Alibaba Java 技术图谱'
+        url: 'https://developer.aliyun.com/graph/java'
+        icon: 'fab fa-java'
+        description: '阿里巴巴Java技术体系'
+
+
+      - name: 'Spring Cloud Consul'
+        url: 'https://spring.io/projects/spring-cloud-consul'
+        icon: 'fas fa-link'
+        description: 'Spring Cloud服务发现组件'
+
+      - name: 'Maven Repository'
+        url: 'https://mvnrepository.com/'
+        icon: 'fas fa-cubes'
+        description: 'Java依赖库查询网站'
+
+      - name: 'Ant Design Pro'
+        url: 'https://pro.ant.design/'
+        icon: 'fas fa-link'
+        description: '企业级后台管理前端框架'
+
+      - name: '谷粒商城分布式项目'
+        url: 'https://github.com/NiceSeason/gulimall-learning'
+        icon: 'fab fa-github'
+        description: 'SpringCloud电商项目实战'
+
+  - name: '求职 / 面试'
+    icon: 'fas fa-briefcase'
+    sites:
+      - name: '程序员求职指南'
+        url: 'https://www.codefather.cn/course/1899655354088226817'
+        icon: 'fas fa-link'
+        description: '程序员求职路线与经验'
+
+      - name: '模拟面试笔记'
+        url: 'https://www.codefather.cn/course/1851891767760461825'
+        icon: 'fas fa-link'
+        description: '程序员模拟面试教程'
+
+      - name: '面试鸭'
+        url: 'https://www.mianshiya.com/'
+        icon: 'fas fa-code'
+        description: '程序员面试刷题平台'
+
+      - name: '互联网秋招岗位汇总'
+        url: 'https://www.laoyujianli.com/hc'
+        icon: 'fas fa-link'
+        description: '互联网秋招岗位整理'
+
+  - name: '开发工具'
+    icon: 'fas fa-tools'
+    sites:
+      - name: 'GitHub'
+        url: 'https://github.com/'
+        icon: 'fab fa-github'
+        description: '全球最大的代码托管平台'
+
+      - name: 'Stack Overflow'
+        url: 'https://stackoverflow.com/'
+        icon: 'fab fa-stack-overflow'
+        description: '程序员技术问答社区'
+
+      - name: 'DevDocs'
+        url: 'https://devdocs.io/'
+        icon: 'fas fa-book'
+        description: 'API文档快速查询'
+
+      - name: 'Postman'
+        url: 'https://www.postman.com/'
+        icon: 'fas fa-paper-plane'
+        description: 'API接口调试工具'
+
+      - name: 'Hoppscotch'
+        url: 'https://hoppscotch.io/'
+        icon: 'fas fa-paper-plane'
+        description: '开源API调试工具'
+
+      - name: 'Regex101'
+        url: 'https://regex101.com/'
+        icon: 'fas fa-terminal'
+        description: '正则表达式调试工具'
+
+      - name: 'JSON Formatter'
+        url: 'https://jsonformatter.org/'
+        icon: 'fas fa-code'
+        description: 'JSON格式化与校验'
+
+      - name: 'Draw.io'
+        url: 'https://app.diagrams.net/'
+        icon: 'fas fa-project-diagram'
+        description: '在线流程图绘制'
+
+      - name: 'Excalidraw'
+        url: 'https://excalidraw.com/'
+        icon: 'fas fa-pencil-ruler'
+        description: '手绘风格架构图工具'
+
+      - name: 'Carbon'
+        url: 'https://carbon.now.sh/'
+        icon: 'fas fa-image'
+        description: '代码截图美化工具'
+
+      - name: 'Explain Shell'
+        url: 'https://explainshell.com/'
+        icon: 'fas fa-terminal'
+        description: 'Linux命令解析工具'

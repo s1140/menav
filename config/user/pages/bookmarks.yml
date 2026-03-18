@@ -1,0 +1,257 @@
+title: 常规书签
+subtitle: 整理后的书签收藏
+
+categories:
+  - name: 导航站
+    icon: fas fa-star
+    path:
+      - 导航站
+    sites:
+      - name: 快导航
+        url: https://www.hifast.cn/
+        icon: fas fa-compass
+        description: 优质网址导航
+
+      - name: WaytoAGI
+        url: https://www.waytoagi.com/zh
+        icon: fas fa-robot
+        description: AI工具与知识库
+
+      - name: 阿虚同学的储物间
+        url: https://axutongxue.com/
+        icon: fas fa-box
+        description: 高质量互联网资源导航
+
+      - name: 千盒工具
+        url: https://1000tool.com/
+        icon: fas fa-tools
+        description: 在线工具大全
+
+      - name: 轻工具
+        url: https://qinggongju.com
+        icon: fas fa-wrench
+        description: 简洁实用工具集合
+
+
+  - name: 阅读 / 书籍
+    icon: fas fa-book
+    path:
+      - 阅读 / 书籍
+    sites:
+
+      - name: PegasusWang读书笔记
+        url: https://pegasuswang.github.io/booknotes/
+        icon: fab fa-github
+        description: 技术与阅读笔记
+
+      - name: 易书计划
+        url: https://ssdown.org/
+        icon: fas fa-book-open
+        description: 免费电子书资源
+
+      - name: SaltyLeo书架
+        url: https://book.tstrs.me/
+        icon: fas fa-book
+        description: 在线书籍索引
+
+      - name: 中文教科书
+        url: https://textbook.synaiv.com/
+        icon: fas fa-graduation-cap
+        description: 免费教材资源
+
+      - name: 豆瓣读书
+        url: https://book.douban.com/
+        icon: fas fa-book
+        description: 读书评分与社区
+
+      - name: PDFMathTranslate
+        url: https://github.com/Byaidu/PDFMathTranslate/blob/main/README_zh-CN.md
+        icon: fab fa-github
+        description: PDF数学文档翻译工具
+
+      - name: Readest
+        url: https://readest.com/
+        icon: fas fa-book-reader
+        description: 阅读工具
+
+      - name: HallowLib
+        url: https://bk.hallowlib.org/
+        icon: fas fa-book
+        description: 数字图书馆
+
+      - name: Shadow Library Monitor
+        url: https://open-slum.org/
+        icon: fas fa-server
+        description: 影子图书馆状态监控
+
+      - name: Oxford Bookworms
+        url: https://books-here.com/oxford-bookworms-library-starter-level/
+        icon: fas fa-language
+        description: 牛津书虫英语读物
+
+      - name: Breaking News English
+        url: https://breakingnewsenglish.com/
+        icon: fas fa-globe
+        description: 英语新闻学习
+
+
+  - name: 动漫 / 二次元
+    icon: fas fa-image
+    path:
+      - 动漫 / 二次元
+    sites:
+
+      - name: 萌娘百科
+        url: https://zh.moegirl.org.cn/Mainpage
+        icon: fas fa-book
+        description: 二次元百科
+
+      - name: Bangumi
+        url: https://bgm.tv/
+        icon: fas fa-tv
+        description: 动漫评分社区
+
+      - name: MangaDex
+        url: https://mangadex.org/
+        icon: fas fa-book
+        description: 漫画阅读平台
+
+      - name: mhx12漫画下载
+        url: https://mhx12.com/
+        icon: fas fa-download
+        description: Kindle漫画下载
+
+      - name: Live2D Viewer
+        url: https://l2d.su/
+        icon: fas fa-eye
+        description: Live2D模型在线查看
+
+      - name: Send to Kindle
+        url: https://www.amazon.com/sendtokindle
+        icon: fab fa-amazon
+        description: Kindle推送工具
+
+      - name: ComicGUISpider
+        url: https://jasoneri.github.io/ComicGUISpider/config/
+        icon: fab fa-github
+        description: 漫画爬虫配置
+
+      - name: 墨水屏漫画站
+        url: https://mh.klll.cc/page/2
+        icon: fas fa-book
+        description: 电子墨水漫画
+
+      - name: 次元狗漫画
+        url: https://www.acgndog.com/category/rec-comic/page/2
+        icon: fas fa-book
+        description: 漫画资源
+
+
+
+  - name: 影视
+    icon: fas fa-film
+    path:
+      - 影视
+    sites:
+
+      - name: 硬核影视指南
+        url: https://yinghezhinan.com/
+        icon: fas fa-film
+        description: 高清影视资源导航
+
+      - name: 电影先生
+        url: https://dianyi.ng/
+        icon: fas fa-play
+        description: 在线影视
+
+      - name: 蜜柑计划
+        url: https://mikanani.me/
+        icon: fas fa-seedling
+        description: 动漫资源RSS
+
+      - name: 鸭梨影视
+        url: https://www.yalishi.com/
+        icon: fas fa-play
+        description: 在线影视
+
+      - name: 黑木耳资源
+        url: https://heimuer.tv/
+        icon: fas fa-database
+        description: 影视资源站
+
+      - name: 量子资源
+        url: https://lzizy.net/
+        icon: fas fa-database
+        description: 影视资源站
+
+      - name: 蘑菇影视
+        url: https://www.5o5k.com/
+        icon: fas fa-play
+        description: 在线影视
+
+      - name: 蛋播星球
+        url: https://z234009184.github.io/
+        icon: fab fa-github
+        description: 影视播放器
+
+      - name: 瓜子影视
+        url: https://gz360.tv
+        icon: fas fa-link
+        description: "瓜子瓜子"
+
+  - name: 游戏
+    icon: fas fa-gamepad
+    path:
+      - 游戏
+    sites:
+
+      - name: Git游戏
+        url: https://gityx.com/
+        icon: fas fa-gamepad
+        description: 放置挂机游戏合集
+
+      - name: FM2024资源站
+        url: http://www.zuqiuba.com/fm2024/
+        icon: fas fa-futbol
+        description: 足球经理资源
+
+      - name: TFT阵容工具
+        url: https://tactics.tools/zh/team-compositions
+        icon: fas fa-chess
+        description: 云顶之弈阵容推荐
+
+      - name: SteamDeck中文网
+        url: https://deck.mhhf.com/
+        icon: fab fa-steam
+        description: SteamDeck社区
+
+      - name: ProtonDB
+        url: https://www.protondb.com/app/1675200
+        icon: fab fa-steam
+        description: Linux游戏兼容性数据库
+
+      - name: 傻狗本狗の小破站
+        url: https://www.sharelikes.com.cn/
+        icon: fas fa-link
+        description: "p社游戏 DLC"
+      
+      - name: 非线性列车
+        url: https://juij.fun/
+        icon: fas fa-link
+        description: "游戏下载网"
+
+      - name: 小叽
+        url: https://steamzg.com/
+        icon: fas fa-link
+        description: "游戏下载网"
+
+      
+  - name: 论坛 / 社区
+    icon: fas fa-comments
+    path:
+      - 论坛 / 社区
+    sites:
+      - name: 52pcgame
+        url: https://bbs.52pcgame.net/
+        icon: fas fa-link
+        description: "52pcgame 论坛"
